@@ -35,7 +35,7 @@ let
     end
 
     if Base.generating_output()
-        pkgreplmode_precompile()
+        #pkgreplmode_precompile()
     end
 
 end # let
